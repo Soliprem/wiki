@@ -1,3 +1,1 @@
-plugins:
-  - jekyll-remote-theme
-theme: Drassil/git-wiki-theme
+remote_theme: Drassil/git-wiki-theme
