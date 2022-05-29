@@ -2,8 +2,8 @@
 ## Autori  
 [Ungaretti](Ungaretti)  
 [Leopardi](Leopardi)  
-[Svevo](Svevo)
-[PIrandello](PIrandello)
+[Svevo](Svevo)  
+[PIrandello](PIrandello)  
 
 ## Spunti
 [Gabbiano](Gabbiano)  
