@@ -32,7 +32,7 @@
     transition: .3s linear;
 }
 /* Switching to the dark when the checkbox is toggled */
-#checkbox:checked + .container{
+#checkbox:checked + *{
   background: rgb(19, 18, 18);
   color: white;
 }
