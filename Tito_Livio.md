@@ -1,5 +1,5 @@
+# Tito Livio
 09:14 5/14/2021  
-TITO LIVIO  
 17-59  
 Avvezzo a non città.  
 Machiavellano in quanto ammette la necesssità del principato, ma è repubblicano.  
