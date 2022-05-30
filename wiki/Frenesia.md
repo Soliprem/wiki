@@ -1,1 +1,0 @@
-Razionalità e contagio  

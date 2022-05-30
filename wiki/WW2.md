@@ -1,2 +1,0 @@
-# Seconda Guerra Mondiale
-
