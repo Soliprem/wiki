@@ -1,3 +1,4 @@
+# Dialettici e Positivisti
 09:30 9/22/2021  
 Pagina 537: marxismo. "la religione è l'oppio dei popoli"  
 Ci sono ortodossi e revisionisti.   

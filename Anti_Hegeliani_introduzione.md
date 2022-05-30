@@ -1,6 +1,5 @@
+# Anti Hegeliani
 09:19 10/12/2021  
-  
-ANTI HEGELIANI:  
   
 [Schopenhauer](Schopenhauer): annullamento di pulsioni e passioni, nullificazione volontà di vivere. Ateo, conservatore reazionario.  
 		|->giungere al Nirvana  

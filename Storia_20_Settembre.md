@@ -1,4 +1,4 @@
-
+# Imperialismo
 Biesmark: "il socialismo della cattedra" (pensione di invalidità, etc.) negli anni 70, per contrastare  
 	    le spinte rivoluzionarie del movimento socialista (Marx+Lassalle)  
   
@@ -8,6 +8,4 @@ l'America non si espande se non nella zona dll'america latina per motivi economi
   
 Nasce in questo periodo l'idea dell'esotico come del fascinoso. (esotismo)  
   
-"faccetta nera della Bissigna"  
-  
-  
+"faccetta nera dell' Abissina"  

@@ -1,3 +1,5 @@
+# Hegel
+## Vita
 Hegel nasce a stoccarda il 27 Agosto nel 1770 in una famiglia Luterana. Studia teologia. Diviene amico di Schelling, entusiasta della rivoluzione francese.  
 trasgressivo progressivamente passa dalla teologia al precettore.   
 Aesso inizia a delineare i primi tratti del sistema.   
@@ -24,6 +26,7 @@ Fra impero e religione si tende alla conservazione, devoid of ricerca di una vit
 											|  
 											|->ricerca di una fusione.  
   
+## Pensiero
   
 In campo cristiano Hegel scrive una "vita di Gesù": gesù prefereisce morire qundo vede che il messaggio non è maturo per il mondo in cui vive: messaggio ai posteri e non ritorno al padre.  
 Hegel quindi non accetta l'adesione passiva ai regimi politici o religiosi del suo tempo: la grandezza di Gesù è quella di aver rifiutato il suo tempo per avere più presa nel futuro.   
@@ -33,6 +36,7 @@ la distruzione del vecchio mondo ha fatto cadere le catene che tenevano l'uomo l
   
 Hegel ragiona quindi per processi: parte quindi da principi piccoli e fondamentali verso l'assoluto.  
   
+### Logica Dialettica
 Prima triade dialettica: essere, nulla, divenire. Tutti i processi dialettici Hegeliani sono tripartiti. (tesi antitesi sintesi)   
 		(Astratto/intellettuale, negativo/razionale, lato speculativo/positivo-razionale)  
   
@@ -69,13 +73,21 @@ meccanicismo=ragionare in termini puri di cause ed effetto.
   
 "la libertà si esplica attraverso la necessità"  
   
+### Dio
 09:06 9/27/2021  
   
 Dio esce dalla sua astrattezza, Dio crea. La natura, idea estrneata, è quindi teologia  
   
 Hegel è studiato dai fratelli Spaventa, che portarono al parlamento l'ideologia della destra storica.  
   
+10:11 10/6/2021  
   
+Cristo rappresenta la follia della croce: la croce rappresenta qualcosa di non spiegabile: Cristo sacrificato dal padre per salvare l'uomo:   
+					anello di congiunzione. Paradossale e scandaloso. Incomprensibile. Una pazzia.   
+					Cristo rappresenta umano ed infinito, la sua morte è una follia.  
+  
+  
+### Ordine Sociale 
 10:16 10/1/2021  
   
 Il tutto viene prima della parte nello stato Hegeliano  
@@ -100,10 +112,4 @@ Ogni stato ha il diritto di essere riconosciuto.
 				|->vs Kant.          |->manifesto dei futuristi (Marinetti=igiene del mondo)  
   
 non è la storia a fare la stati, ma gli stati a fare la storia.  
-  
-10:11 10/6/2021  
-  
-Cristo rappresenta la follia della croce: la croce rappresenta qualcosa di non spiegabile: Cristo sacrificato dal padre per salvare l'uomo:   
-					anello di congiunzione. Paradossale e scandaloso. Incomprensibile. Una pazzia.   
-					Cristo rappresenta umano ed infinito, la sua morte è una follia.  
   

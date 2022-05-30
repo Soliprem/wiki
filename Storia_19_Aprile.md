@@ -1,3 +1,4 @@
+# Società 1840-90
 condizioni economiche italiane negli anni 40 dell'800  
 -nessun capitale investibile,   
 -nessuna classe imprenditoriale,   
