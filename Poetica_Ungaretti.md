@@ -15,7 +15,7 @@
 	- Incrocia dimensione collettiva
 
 - Perlustrazione del male di vivere
-- Ricerca [Epifania](Epifania), ma a volte l'epifania è di mancanza di senso. - "Che senso ha?"
+- Ricerca [Epifania](Epifania), ma a volte l'epifania è di mancanza di senso. - "Che senso ha?"  
 											- Shock negativo
 											- Ricerca di senso dell'esistenza
 

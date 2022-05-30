@@ -1,2 +1,3 @@
-[[Lettera all'imperatore Traiano|Uno Scambio di pensieri sulla question dei Cristiani]]
+[Uno Scambio di pensieri sulla question dei Cristiani](Lettera all'imperatore Traiano)
+
 

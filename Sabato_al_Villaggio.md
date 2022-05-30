@@ -2,5 +2,5 @@
 pagina 144
 
 
-Aria frizzante, trepidazione dell'anticipazione della festa che arriverà 
+Aria frizzante, trepidazione dell'anticipazione della festa che arriverà   
 

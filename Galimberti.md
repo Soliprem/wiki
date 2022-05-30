@@ -1,2 +1,2 @@
 ## Galimberti
-Filosofo e pensatore Contemporaneo
+Filosofo e pensatore Contemporaneo  

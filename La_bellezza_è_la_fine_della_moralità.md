@@ -1,1 +1,1 @@
-Kant: "la bellezza è il fine della moralità"
+Kant: "la bellezza è il fine della moralità"  

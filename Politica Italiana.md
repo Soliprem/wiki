@@ -1,4 +1,4 @@
 ## Politica Italiana
 
-[[Problema dell'età]]
-[[Partitocrazia]]
+[Problema dell'età](Problema dell'età)  
+[Partitocrazia](Partitocrazia)  

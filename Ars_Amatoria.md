@@ -1,1 +1,1 @@
-# Ars AMatoria
+# Ars Amatoria
