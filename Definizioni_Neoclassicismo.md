@@ -1,3 +1,4 @@
+# Definizioni Neoclassicimo
 10:45 4/27/2021  
 NEOCLASSICISMO FORMALE: Forma classica, principi moderni  
 NEOCLASSICISMO PREROMANTICO: ammalato->salute. Tendere senza raggiungere. Graffiante, ribelle.  

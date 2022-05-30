@@ -1,3 +1,4 @@
+# L'eroe Romantico
 Foscolo  
 -Illuminista  
 -Razionalista  

@@ -1,6 +1,5 @@
+# Postmoderno
 12:09 9/21/2021  
-  
-POSTODERNO  
   
 (se una notte d'inverno un viaggiatore)  
   
