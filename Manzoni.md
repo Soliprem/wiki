@@ -1,4 +1,5 @@
-MANZONI 13:35 5/24/2021  
+# MANZONI 
+13:35 5/24/2021  
 Giansenista: grazia di Dio è un dono e non una conquista  
 Scrive di argomenti religiosi (pentecoste, Natale) affronttati in una maniera originale:  
 							->epica popolare per un'etica collettiva=religione cattolica.  

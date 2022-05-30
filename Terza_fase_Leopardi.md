@@ -1,3 +1,4 @@
+# Leopardi (terza fase)
 08:08 10/8/2021  
 La terza fase introduce toni graffianti: morta la speranza e il desiderio   
 (si è innamorato; friendzone; shit happens)  

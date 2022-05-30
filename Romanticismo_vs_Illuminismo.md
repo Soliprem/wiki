@@ -1,5 +1,6 @@
-ROMANTICISMO				vs			 ILLUMINISMO
-
+# ROMANTICISMO				vs			 ILLUMINISMO
+| Romanticismo              | Illuminismo                     |
+| ------------------------  | ------------------------------- |
 | tempesta interiore        | Ragione                         |
 | interiorità               | Società                         |
 | Spiritualità              |                                 |

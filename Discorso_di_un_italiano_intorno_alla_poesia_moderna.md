@@ -1,4 +1,4 @@
-Discorso di un italiano intorno alla poesia moderna (LEOPARDI)  
+# Discorso di un italiano intorno alla poesia moderna 
   
   
 Leopardi sostiene la superiorità della poesia antica rispetto a quella moderna scrivendo che, mentre la prima nasce dalla   

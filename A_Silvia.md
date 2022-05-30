@@ -1,6 +1,5 @@
+# A SILVIA  
 12:35 10/4/2021  
-  
-A SILVIA  
   
 contrapposizione di passato delle illusioni vs presente del disinganno.  
   

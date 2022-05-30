@@ -1,3 +1,4 @@
+# Romanticismo
 Romanticismo europeo=/="italiano"  
   
 Frattura intellettuale e società. Frattura l'incomprensione. Sradicamento.   
