@@ -13,10 +13,13 @@
     {% include head-custom.html %}
   </head>
   <body>
-     <div class="topnav">
-      <a class="active" href="https://soliprem.github.io/wiki">Home</a>
-      <input type="text" placeholder="Search..">
-    </div>
+    <!-- Load icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+     <!-- The form -->
+    <form class="example" action="action_page.php">
+      <input type="text" placeholder="Search.." name="search">
+      <button type="submit"><i class="fa fa-search"></i></button>
+    </form> 
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
