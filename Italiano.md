@@ -32,5 +32,3 @@
 [Schiller, Sturm und Drang](15_aprile_Ita.md)  
 [Elisa_Endrigo.md](Elisa_Endrigo.md)  
 [Simulazione_prima_prova.md](Simulazione_prima_prova.md)  
-
-## Simulazioni Orali
