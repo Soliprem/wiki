@@ -1,4 +1,4 @@
-	Suicide Note of a Lost Erran Man  
+# Suicide Note of a Lost Erran Man  
   
 Lost in his errand was  
 the man tucked because   
