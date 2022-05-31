@@ -10,18 +10,11 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <!-- Load icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     {% include head-custom.html %}
   </head>
   <body>
-    <!-- Load icon library -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-     <!-- The form -->
-    <form class="example" action="action_page.php">
-      <input type="text" placeholder="Search.." name="search">
-      <button type="submit"><i class="fa fa-search"></i></button>
-    </form> 
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
@@ -30,7 +23,17 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}<br>
       <input type="button" class="btn" value="<<" onclick="history.back()">
-      <input type="button" class="btn" value=">>" onclick="history.forward()">
+      <input type="button" class="btn" value=">>" onclick="history.forward()"><br>
+      <div class="event__search__floater">
+      <div class="search__anchor">
+        <form id="event-search-form" action="get">
+              <input type="text" class="search__bar" placeholder="Search Event">
+          <input class="search__submit" type="submit">
+          <div class="search__toggler"></div>
+        </form>
+        
+        </div>
+      </div>
     </header>
 
     <main id="content" class="main-content" role="main">
