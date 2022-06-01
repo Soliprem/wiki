@@ -22,6 +22,7 @@ Molti componimenti minori sono andati perduti: Saturnalia, 1 libri di Silvia, un
 Il numero e la varietà delle composizioni perdute suggerisce una grande e versatile precocità artistica. I titoli l'adesione ai gusti Neroniani: antichità troiane, poesia d'inrattenimento raffinata e ricca di spunti
 ### Bellum Civile
 [Bellum Civile](Bellum Civile) ci raggiunge incompiuto, ma completo: alla morte dell'autore solo 10 dei 12 libri sono conclusi. E' per molti aspetti antitetico all'Eneide
+Il titolo originale secondo Lucano doveva essere Pharsalia, ma tutti i manoscritti lo chiamano *Bellum Civile*
 
 L'argomento è la guerra civile fra Cesare e Pompeo, culminante a Farsalo (VII libro), e come fonti vennero probabilmente usati Tito Livio, Asinio Pollioni, Giulio Cesare e Seneca (storiografi filo-repubblicani); anche se ovviamente prende licenze poetiche.
 
