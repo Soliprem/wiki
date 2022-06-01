@@ -9,6 +9,7 @@
 [Programma](Programma_Italiano)  
 [Ovidio](Ovidio)  
 [Virgilio.md](Virgilio.md)  
+[Lucano](Lucano)
 [Rapporto_Intellettuale_Potere](Rapporto_Intellettuale_Potere)  
 [Alessandrini](Alessandrini.md)  
 [Programma_check](Programma.md)  
