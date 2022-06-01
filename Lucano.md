@@ -21,6 +21,10 @@ Molti componimenti minori sono andati perduti: Saturnalia, 1 libri di Silvia, un
 
 Il numero e la varietà delle composizioni perdute suggerisce una grande e versatile precocità artistica. I titoli l'adesione ai gusti Neroniani: antichità troiane, poesia d'inrattenimento raffinata e ricca di spunti
 ### Bellum Civile
-[Bellum Civile](Bellum Civile) ci raggiunge incompiuto, ma completo: alla morte dell'autore solo 10 dei 12 libri sono conclusi.
+[Bellum Civile](Bellum Civile) ci raggiunge incompiuto, ma completo: alla morte dell'autore solo 10 dei 12 libri sono conclusi. E' per molti aspetti antitetico all'Eneide
 
-L'argomento è la guerra civile fra Cesare e Pompeo, culminante a Farsalo (VII libro), e come fonti vennero probabilmente usati Tito Livio, Asinio Pollioni, Giulio Cesare e Seneca (storiografi filo-repubblicani); anche se ovviamente prende licenze poetiche
+L'argomento è la guerra civile fra Cesare e Pompeo, culminante a Farsalo (VII libro), e come fonti vennero probabilmente usati Tito Livio, Asinio Pollioni, Giulio Cesare e Seneca (storiografi filo-repubblicani); anche se ovviamente prende licenze poetiche.
+
+Lucano elimina l'apparato divino, staccandosi dal classico poema epico, avvicinandosi ad un profilo più storico. Recupera il "meraviglioso" attraverso l'onirico, visioni, profezie, eventi naturali, potenze magiche. L'opera è atipica anche per la natura non celebratoria della grandezza Romana: Lucano condanna la guerra civile come "bella plus quam civilia" ("guerre iù che civili") sin dal primo verso.
+
+Nel VI libro c'è l'incontro col regno dei morti, ma in modo anti-simmetrico rispetto all'Eneide, è Sesto Pompeo che passa dal mondo dei morti a quello dei vivi, obbligato dalla maga Erittone, che ne resuscita il corpo. Egli profetizza la sconfitta di Pompeo alla mano di Cesare, di nuovo antiteticamente all'episodio virgiliano, in cui si profetizza la grandezza della stirpe Giulio-Claudia
