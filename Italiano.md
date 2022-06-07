@@ -32,3 +32,4 @@
 [Schiller, Sturm und Drang](15_aprile_Ita.md)  
 [Elisa_Endrigo](Elisa_Endrigo.md)  
 [Simulazione_prima_prova.md](Simulazione_prima_prova.md)  
+[Gioco Simulazione](Gioco Simulazione)
