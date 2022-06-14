@@ -3,7 +3,7 @@
 La fides è importante in tutti gli aspetti della vita, tranne l'Amore: 
   Gli dei come esempio ([Alessandrini](Alessandrini))
 
-> La vera passione amorora è fonte di ansie e di sofferenze
+> La vera passione amorosa è fonte di ansie e di sofferenze
 
 **Idea della Levitas**
 
