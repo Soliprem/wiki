@@ -19,7 +19,7 @@ APULEIO (120, Adauro (algeria))
  |-> scrive il satirico. Attinge come le Metamorfosi al genere millesio (favole erotiche per soldati), e allo "stilo nilotico"  
  |  
  |				|->Millesio -> primo romanzo filosofico con stile Milesio (forte ironia: vuoi filosofia? guarda un porno)  
- |-> scrive un romanzo ([le Metamorfosi](Apuleio_metamorfosi.md)) -> iniziatiche -> rito di inziazione -> come Andreuccio da Perugia  
+ |-> scrive un romanzo ([le Metamorfosi](Apuleio_metamorfosi)) -> iniziatiche -> rito di inziazione -> come Andreuccio da Perugia  
  |     		|->parla soprattutto di magia (vedi punto 1)->magia buona e magia cattiva, differenza è la curiòsitas (buona=filosofia)  
  |		|											    |->Lucio è trasformato in Asino per cattiva Curiosità -> la conoscenza per l'uomo è *desiderio*
  |		|											    |	|->la servetta "fotide", per la   
@@ -27,7 +27,7 @@ APULEIO (120, Adauro (algeria))
  |		|											    |	|->invisibile natura animale resa visibile  
  |   |   |
  |		|											    |->si ritrasforma seguendo una processione   
- |		                          |per il [Culto di Iside](Culto di Iside.md)	- [bando_dei_culti](bando_dei_culti)  
+ |		                          |per il [Culto di Iside](Culto di Iside)	- [bando_dei_culti](bando_dei_culti)  
  |                              | -> [Favola Isiaca](Favola Isiaca)
  |		|-> arte trasformistica  
  |   |

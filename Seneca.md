@@ -4,5 +4,5 @@ Verrà bandito, e oi richiamato dalla madre di [Nerone](Nerone) per essere prece
 Inizialmente insieme alla madre ha controllo di Nerone, ma poi esce la sua parte eccentrica  
 
 [De_Clementia](De_Clementia)  
-[Non_pensare_al_futuro.md](Non_pensare_al_futuro.md)  
-[Seneca_sulla_Vecchiaia.md](Seneca_slla_Vecchiaia.md)  
+[Non_pensare_al_futuro](Non_pensare_al_futuro)  
+[Seneca_sulla_Vecchiaia](Seneca_slla_Vecchiaia)  

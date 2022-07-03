@@ -20,5 +20,5 @@ Virgilio nacque a Mantova (bucoliche).
 -terre espropriate per essere date ai veterani  
 -un Dio gli resstituì le terre--> Bucoliche   
 -  
-[canto_28.md](canto_28.md)  
-[per_lunedì.md](per_lunedì.md)  
+[canto_28](canto_28)  
+[per_lunedì](per_lunedì)  

@@ -4,7 +4,7 @@
 ## Percorsi interdisciplinari:
 
 
-## Il [doppio](Tema_del_Doppio.md)
+## Il [doppio](Tema_del_Doppio)
 
 ### Il doppio nel mondo romano: Narciso e l’inganno dell’immagine riflessa:
 - Lucano, Cesare e Pompeo: due immagini del potere
